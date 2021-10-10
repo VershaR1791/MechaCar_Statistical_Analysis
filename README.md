@@ -2,11 +2,11 @@
 
 ## Linear Regression to Predict MPG
 
-Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
+- **"Spoiler Angle"** and **"AWD"** provide a non-random amount of variance to the mpg values in the dataset.
 
-Is the slope of the linear model considered to be zero? Why or why not?
+- The slope of the linear model can be considered to be 0 since the intercept value is extremely small.
 
-Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
+- Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
 
 ![image](https://user-images.githubusercontent.com/84694664/136656620-e7cfcbf2-5870-4bae-8b07-b2709a0f848e.png)
 
@@ -28,3 +28,12 @@ The design specifications for the MechaCar suspension coils dictate that the var
 ![image](https://user-images.githubusercontent.com/84694664/136669747-dba0875b-640c-418c-89a1-876e97fd468e.png)
 
 ![image](https://user-images.githubusercontent.com/84694664/136669760-010e5ca5-b4a9-4dc4-8150-88f195dfe7bd.png)
+
+## Study Design: MechaCar vs Competition
+
+A short description of a statistical study that can quantify how the MechaCar performs against the competition. In your study design, think critically about what metrics would be of interest to a consumer: for a few examples, cost, city or highway fuel efficiency, horse power, maintenance cost, or safety rating.
+
+What metric or metrics are you going to test?
+What is the null hypothesis or alternative hypothesis?
+What statistical test would you use to test the hypothesis? And why?
+What data is needed to run the statistical test?
